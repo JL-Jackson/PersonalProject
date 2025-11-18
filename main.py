@@ -1,0 +1,13 @@
+#TODO Use this file and any others you may need
+"""
+This is a starter file for your personal project. You can add other files to the project that are necessary for it's function.
+Be sure to 'add' them to your commits and update them as you go.
+When you perform your commits, make sure that your messages are descriptive as to where you are in your project, what you plan on doing
+and what you have fixed. I like to make lists like the one below:
+NEXT STEP:
+- fix .....
+- include ....
+COMPLETED
+- fixed ......
+- included .....
+"""
